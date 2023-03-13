@@ -2,7 +2,13 @@
 
 Add markdown support to your tweets.
 
-## Running locally
+### Currently how twitter shows tweet
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/62330868/224616740-115bac05-4b1a-41c0-9649-5a452c702376.png">
+
+### After adding twitter supercharger
+<img width="598" alt="image" src="https://user-images.githubusercontent.com/62330868/224616917-df0a1b65-1acf-4b95-9d72-e2ccc0e738a6.png">
+
+### Running locally
 
 1. Clone the repo
 2. Head-over to `chrome://extensions`
